@@ -73,6 +73,8 @@ The system is designed for **educational analysis**, **student self-assessment**
 * **Predicted Performance Index** (continuous value)
 * Visual comparison of prediction with historical data
 
+![image alt](https://github.com/Mahek1305/Student-Performance-Model/blob/main/Screenshot%202026-01-02%20140631.png)
+
 ---
 
 ## 📊 Visualizations Included
